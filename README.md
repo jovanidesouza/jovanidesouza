@@ -7,7 +7,7 @@
 - Quality Assurance Analyst 
 - Hardware/Software Enthusiast
  
-##  interests
+##  Interests
 
 - Software Development
 - Quality Assurance and Project Management
