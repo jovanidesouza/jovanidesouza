@@ -4,7 +4,7 @@
 
 - Bachelor of Computer Science
 - Quality Assurance Analyst 
-- Hardware/Software Enthusiast
+- Technology Enthusiast
  
 ##  Interests
 
