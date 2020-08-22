@@ -9,6 +9,6 @@
 ##  Interests
 
 - Software Development
-- Project Management and Quality Assurance 
+- Project Management
 - Data Science
 - Internet of Things
