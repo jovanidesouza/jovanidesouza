@@ -6,4 +6,4 @@ My name is Jovani de Souza, I have a BSc degree in Computer Science at Federal U
 
 I have interest in Software Development and Project Management. I also like to work with Data Analytics and Internet of Things, especially with Hardware Prototype and Smart Devices.
 
-To know more, check my [Portfolio](https://jovanidesouza.github.io/).
+To know more, check my [Portfolio](https://jovanidesouza.github.io/){:target="_blank"}.
