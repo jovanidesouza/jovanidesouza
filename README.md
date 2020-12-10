@@ -6,7 +6,9 @@ My name is Jovani de Souza.
 
 I have a BSc degree in Computer Science at Federal University of Fronteira Sul (UFFS). 
 
-I currently work as Quality Assurance Analyst and Software Developer.
+I currently work as Software Analyst, with QA/QC and DevOps.
+
+I also work as Software Developer.
 
 I have interest in Software Development, DevOps, Project Management, IoT and Data Science.
 
