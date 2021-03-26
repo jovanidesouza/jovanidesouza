@@ -8,7 +8,7 @@
 
 - Currently working as DevOps analyst.
 
-- I have interest in DevOps Culture, Software Development, Project Management and IoT.
+- I have interest in DevOps Culture, Software Development and IoT.
 
 - To know more about me, check my <a href="https://jovanidesouza.github.io/" target="_blank">Portfolio</a>.
 
