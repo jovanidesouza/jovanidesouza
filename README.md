@@ -9,3 +9,6 @@ I have a BSc degree in Computer Science at Federal University of Fronteira Sul (
 I have interest in DevOps Culture, Software Development, Project Management and IoT.
 
 To know more about me, check my <a href="https://jovanidesouza.github.io/" target="_blank">Portfolio</a>.
+
+
+https://github-readme-stats.vercel.app/api?username=jovanidesouza&hide=[%22issues%22]&show_icons=true
