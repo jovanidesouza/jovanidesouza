@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0d1726?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jovani-de-souza-94ba9b67/)](https://www.linkedin.com/in/jovani-de-souza-94ba9b67/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-0d1726?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jovanidesouza@gmail.com)](mailto:jovanidesouza@gmail.com)
 
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img alt="https://www.linkedin.com/in/jovani-de-souza-94ba9b67/" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 
 ### My name is Jovani de Souza.
