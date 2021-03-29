@@ -1,6 +1,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/jovani-de-souza-94ba9b67/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-0d1726?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jovanidesouza@gmail.com)](mailto:jovanidesouza@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jovanidesouza@gmail.com)
 
 
 ### My name is Jovani de Souza.
