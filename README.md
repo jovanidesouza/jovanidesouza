@@ -14,4 +14,3 @@
 - To know more about me, check my <a href="https://jovanidesouza.github.io/" target="_blank">Portfolio</a>.
 
 
-![Jovani](https://github-readme-stats.vercel.app/api/top-langs/?username=jovanidesouza&theme=dark&langs_count=10)
