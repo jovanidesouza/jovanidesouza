@@ -15,7 +15,7 @@
 
 - I have interest in DevOps Culture, Software Development and IoT.
 
-- To know more about me, check my <a href="https://jovanidesouza.github.io/" target="_blank">Portfolio</a>.
+- To know more about me, check my <a href="https://jovanidesouza.github.io/" target="_blank">Portfolio</a>
 
 <br>
 <div align="left">
