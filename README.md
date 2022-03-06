@@ -11,7 +11,7 @@
 
 - I have a BSc degree in Computer Science at Federal University of Fronteira Sul (UFFS). 
 
-- DevOps Engineer
+- DevOps Engineer | Computer Scientist | Software Engineer
 
 - I have interest in DevOps Culture, Software Development and IoT.
 
