@@ -1,4 +1,4 @@
-![image](capa.png)
+![image](home.png)
 
 <br>
 <div align="left">
