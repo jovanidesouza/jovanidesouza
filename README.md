@@ -1,4 +1,4 @@
-Hey! I'm Jovani de Souza 👋<br><br>I'm a software developer from Brazil. 🇧🇷<br><br>⚒️ Work<br>I currently working as DevOps Engineer.<br><br>🎓 Education<br>I have a BSc degree in Computer Science and a Specialization degree in Software Engineering.<br><br><br> 
+Hey! I'm Jovani de Souza 👋<br><br>I'm a software developer from Brazil. 🇧🇷<br><br>⚒️ Work<br>I'm currently working as DevOps Engineer.<br><br>🎓 Education<br>I have a BSc degree in Computer Science and a Specialization degree in Software Engineering.<br><br><br> 
 
 
 ![](https://github-readme-stats.vercel.app/api?username=jovanidesouza&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
